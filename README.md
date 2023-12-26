@@ -20,7 +20,7 @@ https://apple-website-frontend.vercel.app/
 Clone the project
 
 ```bash
-git clone https://github.com/Chaubeyankit/apple.git
+git clone https://github.com/Aman00702/Apple_Assign.git
 ```
 
 Go to the project directory
